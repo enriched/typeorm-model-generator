@@ -3,8 +3,6 @@ npm-debug.log
 ormconfig.json
 .vscode
 typings/
-**/*.js
-**/*.js.map
 output/**/*.*
 .nyc_output/
 coverage/
